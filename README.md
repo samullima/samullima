@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Samuel! A Data Science and Artificial Intelligence student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and IA at FGV EMAp.
+  - 🌱 I’m currently studying Data Science and AI at FGV EMAp.
 </p>
 
 <!-- Dropdown -->
